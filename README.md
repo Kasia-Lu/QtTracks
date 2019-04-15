@@ -12,4 +12,4 @@ Options available in current (working version):
 Options that will be added soon:
 * Track length projection
 * Chi2 statistics
-* Saving data as pdf report
+* Saving data as a pdf report
