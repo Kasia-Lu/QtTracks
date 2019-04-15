@@ -13,3 +13,4 @@ Options that will be added soon:
 * Track length projection
 * Chi2 statistics
 * Saving data as a pdf report
+* Improved multi-plot option
